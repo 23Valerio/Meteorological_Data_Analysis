@@ -47,16 +47,8 @@ public class MeteoSingleDay {
         return minTemperature;
     }
 
-    public double getPressure() {
-        return pressure;
-    }
-
     public double getWindSpeed() {
         return windSpeed;
-    }
-
-    public int getHumidity() {
-        return humidity;
     }
 
     public double getTotalPrecipitation() {
